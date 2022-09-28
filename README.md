@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact **I make things happen!**
+- ⚡ Fun fact **Someone's watching my profile 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolbek&show_icons=true&locale=en&layout=compact" alt="wolbek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolbek&show_icons=true&locale=en" alt="wolbek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wolbek&" alt="wolbek" /></p>
