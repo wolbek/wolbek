@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Vishwakarma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Open Source Projects**
-
-- 🌱 I’m currently learning **Alpha Course**
+- 🔭 I’m currently working in **Jio Platforms Limited**
 
 - 💬 Ask me about **Web Development**
 
