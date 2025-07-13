@@ -17,6 +17,7 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" alt="redis" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/0*1Og_hmJWdlMiDWuB.png" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://xitoring.com/wp-content/uploads/2024/07/rabbitmq.png" alt="rabbitmq" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
